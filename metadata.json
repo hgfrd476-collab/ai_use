@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix KampujaGo",
+  "description": "Cambodia\u0027s premier marketplace for booking accommodations and transportation from trusted local businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "/",
+  "name": "TravelGo — Accommodation & Transportation Booking",
+  "short_name": "TravelGo",
+  "description": "Discover. Book. Travel. Book accommodations and transportation from verified hosts.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#F8FAFC",
+  "theme_color": "#1E40AF",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
